@@ -1,3 +1,4 @@
+![Banner](./85570f64e363c89030141316a5cabd4b.jpg)
 # Hi there 👋  
 
 I'm **Ozora Radinka Danadyaksa**  
