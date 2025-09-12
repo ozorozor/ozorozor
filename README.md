@@ -5,7 +5,7 @@ I'm **Ozora Radinka Danadyaksa**
 
 🔒 Passionate about **Cyber Security** and exploring how systems can be both broken and protected.  
 💻 Love to experiment with **frontend development** and turn ideas into functional projects.  
-📚 Currently a student in **Software Engineering (PPLG)**.  
+📚 Currently a student at **SMK Raden Umar Said** majoring in **Software Engineering (PPLG)**.
 
 ---
 ### 🔧Langue that i learn
