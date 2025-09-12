@@ -7,7 +7,7 @@ I'm **Ozora Radinka Danadyaksa**
 📚 Currently a student in **Software Engineering (PPLG)**.  
 
 ---
-#Langue that i learn
+### 🔧Langue that i learn
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
