@@ -1,4 +1,4 @@
-![Banner](./banner1.gif)
+![Banner](./banner2.gif)
 # Hi there 👋  
 
 I'm **Ozora Radinka Danadyaksa**  
