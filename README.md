@@ -1,55 +1,45 @@
-## Hi there 👋, I'm Ozora Radinka Danadyaksa  
+# Hi there 👋  
 
-🔐 **CyberSecurity Enthusiast | Frontend Developer | Student**  
+I'm **Ozora Radinka Danadyaksa**  
+
+🔒 Passionate about **Cyber Security** and exploring how systems can be both broken and protected.  
+💻 Love to experiment with **frontend development** and turn ideas into functional projects.  
+📚 Currently a student in **Software Engineering (PPLG)**.  
+
+---
+#Langue that i learn
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+## 🚀 What I Do  
+- 🕵️‍♂️ Bug hunter with experience finding vulnerabilities in several **government & popular websites**.  
+- 🛠️ Build small-to-medium projects from scratch, focusing on both **UI/UX** and **functionality**.  
+- 🌐 Tinker with **Linux, networking, and security tools** to sharpen my skills.  
 
 ---
 
-### 👨‍💻 About Me  
-- 📚 Pelajar SMK Raden Umar Said, jurusan **PPLG (Software Engineering)**  
-- 🛡️ Antusias di bidang **Keamanan Siber**  
-- 💻 Memiliki keterampilan di **Konfigurasi Jaringan, Linux dasar, Wireshark, Nmap**  
-- 🐞 Pernah menemukan celah keamanan pada beberapa website **pemerintahan dan populer**  
-- 🚀 Terbiasa belajar mandiri dan beradaptasi dengan cepat  
+## 📌 Featured Projects  
+- **ToDoList App** → Simple task manager with add, edit, and delete features.  
+- **C2 DDOS Tool** → Experiment project for network stress-testing (Layer4 & Layer7).  
+- **Custom API** → Backend service to support my projects and automation needs.  
 
 ---
 
-### 🏆 Experience  
-- ✅ Menemukan bug pada **subdomain polri.go.id**  
-- ✅ Menemukan bug pada **subdomain kemdikbud.go.id**  
-- ✅ Menemukan bug pada **subdomain smkruskudus.sch.id**  
-- ✅ Lebih dari **10+ Website Government** ditemukan celah keamanannya  
+## 🧰 Tech Stack  
+- **Security Tools**: Wireshark, Nmap  
+- **Languages**: HTML, CSS, JavaScript  
+- **Other Skills**: Linux basics, network configuration  
 
 ---
 
-### 📂 Projects  
-- **ToDoList App**  
-  - Frontend UI/UX Design  
-  - Fitur Add, Edit, Delete Task  
-  - Implementasi UI ke Code  
-
-- **C2 DDOS Tool**  
-  - Frontend & Backend Development  
-  - Layer4 Attack (UDP, TCP, Game Attack)  
-  - Layer7 Attack (HTTP, HTTPS, CF Bypass)  
-
-- **API for DDOS**  
-  - Frontend & Backend Development  
-  - CRUD Task (Add, Edit, Delete)  
+## 📫 Let’s Connect  
+- ✉️ Email: **ozorozor1337@gmail.com**  
+- 🌍 GitHub: [ozorozor](https://github.com/ozorozor)  
 
 ---
 
-### 🛠️ Skills  
-- **CyberSecurity**: Bug Hunting, Wireshark, Nmap  
-- **Frontend Development**: UI/UX, HTML, CSS, JavaScript  
-- **Networking**: Basic Linux & Network Configuration  
-
----
-
-### 📫 Contact Me  
-- 📧 Email: **ozorozor1337@gmail.com**  
-- 🌐 GitHub: [ozorozor](https://github.com/ozorozor)  
-- 📱 WhatsApp: **+62 896 7547 0705**  
-
----
-
-⭐️ _"Keep Learning, Keep Hacking, Keep Building!"_  
+⭐ *Always curious. Always learning. Always building.*  
