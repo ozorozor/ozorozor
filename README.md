@@ -23,13 +23,6 @@ I'm **Ozora Radinka Danadyaksa**
 
 ---
 
-## 📌 Featured Projects  
-- **ToDoList App** → Simple task manager with add, edit, and delete features.  
-- **C2 DDOS Tool** → Experiment project for network stress-testing (Layer4 & Layer7).  
-- **Custom API** → Backend service to support my projects and automation needs.  
-
----
-
 ## 🧰 Tech Stack  
 - **Security Tools**: Wireshark, Nmap  
 - **Languages**: HTML, CSS, JavaScript  
