@@ -1,7 +1,7 @@
 ![Banner](./banner2.gif)
 # Hi there 👋  
 
-I'm **Ozora R. D.**  
+I'm **ozorozor**  
 
 🔒 Passionate about **Cyber Security** and exploring how systems can be both broken and protected.  
 💻 Love to experiment with **frontend development** and turn ideas into functional projects.  
